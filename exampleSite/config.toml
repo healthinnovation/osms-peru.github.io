@@ -12,10 +12,10 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "red"
   description = "Open Source Medical Supplies Peru"
-  copyright = "&copy;2020 Open Source Medical Supplies Peru"
+  copyright = "&copy;2020 Laboratorio de Innovación en Salud"
   sidebarAbout = [
-    "Repositorio de dispositivos médicos basados en hardware científico abierto. Iniciativa local de Open Source Medical Supplies (https://opensourcemedicalsupplies.org/)",
-    "Laboratorio de Innovación en Salud, Instituto de Medicina Tropical 'Alexander von Humboldt' - Universidad Peruana Cayetano Heredia (UPCH)",
+    "Repositorio de dispositivos médicos basados en hardware científico abierto.",
+    "Instituto de Medicina Tropical 'Alexander von Humboldt' - Universidad Peruana Cayetano Heredia (UPCH)",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
