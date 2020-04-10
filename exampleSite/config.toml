@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Open Source Medical Supplies Peru"
   copyright = "&copy;2020 Laboratorio de Innovación en Salud"
   sidebarAbout = [
-    "Repositorio de dispositivos médicos basados en hardware científico abierto. Iniciativa local de <a href="https://opensourcemedicalsupplies.org">Open Source Medical Supplies.</a>", "Instituto de Medicina Tropical 'Alexander von Humboldt' - Universidad Peruana Cayetano Heredia (UPCH)",
+    "Repositorio de dispositivos médicos basados en hardware científico abierto.", "Instituto de Medicina Tropical 'Alexander von Humboldt' - Universidad Peruana Cayetano Heredia (UPCH)",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
