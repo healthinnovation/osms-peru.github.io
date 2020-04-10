@@ -1,10 +1,9 @@
 <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
     <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
-    {{ range .Site.Params.sidebarAbout }}
+    {{ range .Site.Params.sidebarAbout }} <p>Iniciativa local de <a href="https://opensourcemedicalsupplies.org">Open Source Medical Supplies.</a></p>
       <p class="sidebar-p">{{ . | safeHTML }}</p>
     {{ end }}
-    <p>Iniciativa local de <a href="https://opensourcemedicalsupplies.org">Open Source Medical Supplies.</a></p>
     <ul class="sidebar-menu">
       {{ range .Site.Params.navlinks }}
         <li><a href="{{ absURL .url }}">{{ .name }}</a></li>
