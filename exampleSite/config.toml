@@ -1,5 +1,5 @@
 baseurl = "https://osms-peru.netlify.com"
-title = "Open Source Medical Supplies Peru"
+title = "Open Source Medical Supplies (OSMS) Peru"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "Open Source Medical Supplies Peru"
   copyright = "&copy;2020 Open Source Medical Supplies Peru"
   sidebarAbout = [
-    "Repositorio de dispositivos médicos basados en hardware científico abierto",
+    "Repositorio de dispositivos médicos basados en hardware científico abierto. Iniciativa local de Open Source Medical Supplies (https://opensourcemedicalsupplies.org/)",
     "Laboratorio de Innovación en Salud, Instituto de Medicina Tropical 'Alexander von Humboldt' - Universidad Peruana Cayetano Heredia (UPCH)",
   ]
   # Contact page
