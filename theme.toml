@@ -4,15 +4,15 @@
 name = "Creative portfolio"
 license = "MIT"
 licenselink = "https://github.com/kishaningithub/hugo-creative-portfolio-theme/blob/master/LICENSE"
-description = "Port of the creative portfolio theme"
-homepage = "https://github.com/kishaningithub/hugo-creative-portfolio-theme"
+description = "Open Source Medical Supplies Peru"
+homepage = "https://github.com/healthinnovation/osms-peru.github.io"
 tags = ["creative", "portfolio", "projects", "minimal", "responsive"]
 features = ["disqus", "bootstrap", "responsive", "google analytics"]
 min_version = 0.20
 
 [author]
-  name = "Kishan B"
-  homepage = "https://github.com/kishaningithub"
+  name = "Laboratorio de Innovación en Salud"
+  homepage = "https://github.com/healthinnovation"
 
 # If porting an existing theme
 [original]
